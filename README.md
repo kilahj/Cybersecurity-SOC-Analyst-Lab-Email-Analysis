@@ -36,7 +36,7 @@ CoCanDa, a planet known as 'The Heaven of the Universe' has been having a bad ye
 - Return-Path: Email used if failed to send (troubleshooting purposes)
 - Authentication-Results: status for email protection
 - SPF: good indication for suspicious emails. (If SPF is set to fail, may want to analyze the email)
-- To: Receipient
+- To: Recipient
 - Subject: subject of email
 - From: Who sent the email
 - Reply To: email address used the moment recipient clicks 'reply to email'
